@@ -1,5 +1,4 @@
 #Tic Tac Toe - Tyler Day
-import this
 
 
 def gameSetup():
